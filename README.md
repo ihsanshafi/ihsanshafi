@@ -22,7 +22,7 @@ I'm a guy who likes to build things
 
 
 
-<h2> some of the technologies I work with ❤</h2>
+<h2> some of the technologies I work with</h2>
 
 <h4> programming languages</h4>
  
