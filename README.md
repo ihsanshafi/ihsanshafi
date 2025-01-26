@@ -2,7 +2,7 @@
 
 <div align="left" width="100%" height="100%">
 
-[![Follow me on X](https://img.shields.io/badge/Tweet_-1DA1F2?style=for-the-badge&logo=x&labelColor=575958&logoColor=white)](https://x.com/ihsanshafi_)
+[![Follow me on X](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=black)](https://x.com/ihsanshafi_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihsan-shafi)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:ihsanshafi2006@gmail.com)
 ![](https://komarev.com/ghpvc/?username=ihsanshafi&color=brightgreen&style=for-the-badge)
