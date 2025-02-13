@@ -80,13 +80,15 @@ I'm a guy who likes to build things
    </tr>
 </table>
 
-<br>
+<br/>
 
-![](https://github-profile-trophy.vercel.app/?username=ihsanshafi&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ihsanshafi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
  <table align="center" width="100%" height="100%" >
    <tr>
      <td> 
+
+<br/>
   
 ![](https://github-readme-stats.vercel.app/api?username=ihsanshafi&theme=radical&show&hide_border=false&include_all_commits=true&count_private=true)</td>
      <td> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanshafi&theme=radical&show&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
