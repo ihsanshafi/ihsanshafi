@@ -86,8 +86,8 @@ I'm a guy who likes to build things
    <tr>
      <td> 
   
-![](https://github-readme-stats.vercel.app/api?username=ihsanshafi&theme=radical&show&hide_border=false&include_all_commits=false&count_private=false)</td>
-     <td> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanshafi&theme=radical&show&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ihsanshafi&theme=radical&show&hide_border=false&include_all_commits=true&count_private=true)</td>
+     <td> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanshafi&theme=radical&show&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </td>
    </tr>
   </table>
