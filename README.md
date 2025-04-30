@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:ihsanmohammed@protonmail.com)
 ![](https://komarev.com/ghpvc/?username=ihsanshafi&color=brightgreen&style=for-the-badge)
 
-I'm a guy who likes to build things
+I'm a guy who likes to build things /n
 ` Currently Learning -` blockchain Technology
 
 ---
