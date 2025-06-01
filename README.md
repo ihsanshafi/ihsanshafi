@@ -91,7 +91,7 @@ I'm a guy who likes to build things
 
 <br/>
   
-![](https://github-readme-stats.vercel.app/api?username=ihsanshafi&theme=radical&show&hide_border=false&include_all_commits=true&count_private=true)</td>
+![](https://github-readme-stats.vercel.app/api?username=ihsanshafi&theme=radical&show&hide_border=false&include_all_commits=true&count_private=tru)</td>
      <td> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanshafi&theme=radical&show&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </td>
    </tr>
